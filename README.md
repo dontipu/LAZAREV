@@ -1,0 +1,2 @@
+# LAZAREV
+static site
